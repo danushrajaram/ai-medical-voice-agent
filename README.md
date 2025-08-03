@@ -4,6 +4,8 @@
 **Talk to an AI Doctor — like it's real (voice included).**  
 A full-stack voice-enabled **Medical AI Agent** that simulates real consultations with AI-specialist doctors. Built with Next.js, Gemini 2.0, VAPI, and more.
 
+- 🧪 Live Demo / LinkedIn Post: [Watch Here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7357870755990134786/)
+
 ---
 
 ## 🌟 Features
@@ -48,15 +50,6 @@ Everything is handled in real-time with voice playback and streamed AI responses
 - 💳 Subscription & payment gateway (Stripe)
 - 🏥 Integration with real-world medical APIs
 - 🗓️ Appointment scheduling and health history
-
----
-
-## 🔗 Useful Links
-
-- 🧪 **Live Demo / LinkedIn Post **: [Watch Here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7357870755990134786/)
-
----
-
 
 ---
 
