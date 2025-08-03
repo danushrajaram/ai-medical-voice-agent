@@ -104,7 +104,7 @@ See [Next.js Deployment Guide](https://nextjs.org/docs/app/building-your-applica
 ## 🙌 Author
 
 **Danush Rajaram**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/danush-rajaram)  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/danushrajaram)  
 Follow for more projects in AI, data, and product development!
 
 ---
